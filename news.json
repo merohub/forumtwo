@@ -1,0 +1,7 @@
+{ 
+"news":{"head": "<div id='head1'>Dessert</div>", "detail":"A wave of car bombs hit the capital, Baghdad, and other areas, killing at least 48 people in mostly Shia areas, officials say..... <br><a href='http://google.com' target='_blank'); >Visit website for more</a><br/>"},
+"news2":{"head": "<div id='head1'>main Course</div>", "detail":"Syrian government forces have fully captured the Khalidiya district of Homs, a key rebel stronghold in the central city, state media report.....<br><a href='http://www.bbc.co.uk/news/world-middle-east-23488855' target='_blank'>Visit website for more</a><br/>"},
+"news3":{"head": "<div id='head1'>Lunch</div>", "detail":"A coach has plunged off a flyover in southern Italy leaving at least 39 people dead in the country's worst road accident for decades.....<br><a href='http://www.bbc.co.uk/news/world-europe-23486086' target='_blank'>Visit website for more</a><br/> "},
+"news4":{"head": "<div id='head1'>Dinner</div>", "detail":"Taiwan's defence minister has resigned following the death of a young conscript in the military....<br><a href='http://www.bbc.co.uk/news/world-asia-23488044' target='_blank'>Visit website for more</a><br/>"},
+"news5":{"head": "<div id='head1'>Wine</div>", "detail":"Taiwan's defence minister has resigned following the death of a young conscript in the military....<br><a href='http://www.bbc.co.uk/news/world-asia-23488044' target='_blank'>Visit website for more</a><br/>"}
+}

@@ -1,0 +1,7 @@
+{ 
+"news":{"head": "<a href='#dessert'><div id='head1' class='ui-body ui-body-d'>Dessert<img src='images/menuicon.jpg' style='float:right;'/></div></a>"},
+"news2":{"head": "<a href='#main'><div id='head1' class='ui-body ui-body-d'><img src='images/menuicon.jpg' style='float:right;'/>Main Course</div> </a>"},
+"news3":{"head": "<a href='#lunch'><div id='head1' class='ui-body ui-body-d'><img src='images/menuicon.jpg' style='float:right;'/>Lunch</div> </a> "},
+"news4":{"head": "<a href='#dinner'><div id='head1' class='ui-body ui-body-d'><img src='images/menuicon.jpg' style='float:right;'/>Dinner</div></a>"},
+"news5":{"head": "<a href='#wine'><div id='head1' class='ui-body ui-body-d'><img src='images/menuicon.jpg' style='float:right;'/>Wine</div></a>"}
+}

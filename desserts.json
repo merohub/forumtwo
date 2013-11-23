@@ -1,0 +1,7 @@
+{ 
+"news":{"des": "<div id='head1' class='ui-body ui-body-d'>Dessert 1<span style='float:right;color:#061203'>Price $.5.99</span></div>"},
+"news2":{"des": "<div id='head1' class='ui-body ui-body-d'>Dessert 1</div>"},
+"news3":{"des": "<div id='head1' class='ui-body ui-body-d'>Dessert 1</div> "},
+"news4":{"des": "<div id='head1' class='ui-body ui-body-d'>Dessert 1</div>"},
+"news5":{"des": "<div id='head1' class='ui-body ui-body-d'>Dessert 1</div>"}
+}
